@@ -1,0 +1,41 @@
+body{
+    background-color:azure;
+}
+.card-title{
+    color:black;
+    font-size: 14pt;
+}
+.card-text{
+    color: black;
+    font-size: 14pt;
+}
+.table{
+    width: 80%;
+    margin:0% 10%;
+    box-shadow: 3px 3px 3px 3px;
+
+}
+.table-title {
+    background-color:coral;
+}
+.table-text{
+    background-color:powderblue;
+}
+.bottoni{
+    margin:0% 10% ;
+}
+.button{
+    background-color:khaki;
+    color: black;
+}
+.button1{
+    background-color:darkorchid;
+    color: black;
+}
+.button2{
+    background-color:olivedrab;
+    color: black;
+}
+.form-controll{
+    margin:0% 90%;
+}
